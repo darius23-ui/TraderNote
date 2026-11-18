@@ -1,0 +1,7 @@
+customtkinter>=5.2.2
+yfinance>=0.2.50
+pillow>=10.1
+# opțional: pictogramă în system tray (alerte cu fereastra închisă)
+pystray>=0.19
+# opțional: citirea exporturilor .xlsx (XTB etc.)
+openpyxl>=3.1
